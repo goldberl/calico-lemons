@@ -23,6 +23,6 @@ The hardest part of starting a blog (besides figuring out how to code it) was co
 
 As for lemons, I feel my life has a lemon motif to it. 'Leah' and 'lemon' start with the same two letters, lemonade is my favorite drink by far, I like lemon flavored candy, and my username for most sites include either 'cat' or 'lemon.' On my college graduation cap, I decorated it with the quote "When life gives you lemons, make lemonade." 
 
-Thus the blog name was born. Thanks for checking out Calico Lemons, and happy reading!
+Thus through combining two things I love, the blog name was born. Thanks for checking out Calico Lemons, and happy reading!
 
 ***End.***
