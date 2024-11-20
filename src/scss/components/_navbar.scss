@@ -59,7 +59,7 @@
 
                     &:focus,
                     &:hover {
-                        color: fade-out($white, .2);
+                        color: fade-in($red, 1);
                     }
                 }
             }
