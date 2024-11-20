@@ -113,7 +113,8 @@ ms.build( ( err ) => {
         server: './dist',
         port: 5000,
         injectChanges: false,
-        reloadThrottle: 0
+        reloadThrottle: 0,
+        open: false
       } );
     }
   }
