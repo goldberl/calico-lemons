@@ -2,8 +2,8 @@ extends default.pug
 
 block main
     // Main Content
-    each post, index in collections.posts
-        - var divider = (index < collections.posts.length - 1);
+    each post, index in collections.posts.slice(0, 5)
+        - var divider = (index < collections.posts.slice(0, 5).length - 1);
         // Post preview
         .post-preview
             a(href=post.path)
