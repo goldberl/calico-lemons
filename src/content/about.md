@@ -1,12 +1,15 @@
 ---
-title: About me
-description: This is what I do
-featured_image: /assets/img/about-bg.jpg
+title: About Me
+featured_image: /assets/img/about-bg.jpeg
 page_type: page
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe nostrum ullam eveniet pariatur voluptates odit, fuga atque ea nobis sit soluta odio, adipisci quas excepturi maxime quae totam ducimus consectetur?
+## Hey, I'm Leah!
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius praesentium recusandae illo eaque architecto error, repellendus iusto reprehenderit, doloribus, minus sunt. Numquam at quae voluptatum in officia voluptas voluptatibus, minus!
+<img class="img-fluid" src="/assets/img/me.jpg" alt="" style="width: 250px; height: 250px; float: left; margin-right: 20px; margin-top: 20px; border: 10px double #000; filter: contrast(100%);">
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut consequuntur magnam, excepturi aliquid ex itaque esse est vero natus quae optio aperiam soluta voluptatibus corporis atque iste neque sit tempora!
+Welcome to Calico Lemons, my personal blog. Here I'll document noteworthy adventures, experiences, or reflections I have throughout my time on this planet. 
+
+My hometown is Philadelphia, PA, USA, but I am currently based in Nagoya, Japan working as a software engineer.
+
+**Feel free to contact me: leahtiangoldberg@gmail.com**

@@ -1,13 +1,17 @@
 // Footer
 footer.border-top
-    .container.px-4.px-lg-5
-        .row.gx-4.gx-lg-5.justify-content-center
-            .col-md-10.col-lg-8.col-xl-7
-                ul.list-inline.text-center
-                    each url, network in socials
-                      li.list-inline-item
-                          a(href=url)
-                              span.fa-stack.fa-lg(title=network)
-                                  i.fas.fa-circle.fa-stack-2x
-                                  i.fab.fa-stack-1x.fa-inverse(class=`fa-${network}`)
-                .small.text-center.text-muted.fst-italic Copyright &copy; #{site.subject} 2024
+  .container.px-4.px-lg-5
+    .row.gx-4.gx-lg-5.justify-content-center
+      .col-md-10.col-lg-8.col-xl-7
+        ul.list-inline.text-center
+          each url, network in socials
+            li.list-inline-item
+              a(href=url, target="_blank")
+                span.fa-stack.fa-lg(title=network)
+                  i.fa.fa-circle.fa-stack-2x
+                  // Conditionally render the fa or fab class
+                  if network === 'linkedin' || network === 'github' || network === 'twitter'
+                    i.fab.fa-stack-1x.fa-inverse(class=`fa-${network}`)
+                  else
+                    i.fa.fa-stack-1x.fa-inverse(class=`fa-${network}`)
+        .small.text-center.text-muted.fst-italic Copyright 2024 &copy; goldberl

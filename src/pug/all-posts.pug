@@ -11,12 +11,8 @@ block main
                 h3.post-subtitle= post.description
 
             p.post-meta
-                time(datetime=post.isoDate)= post.displayDate
+                time(datetime=post.isoDate)= post.displayDate 
 
             // Divider
             if (divider)
                 hr.my-4
-
-    // Pager
-    .d-flex.justify-content-end.mb-4
-        a.btn.btn-primary.text-uppercase(href='all-posts.html') All Posts →

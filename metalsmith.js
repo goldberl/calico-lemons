@@ -21,19 +21,18 @@ const sitedata = {
   },
   site: {
     base: !prod ? 'http://localhost:5000' : 'https://startbootstrap.github.io/startbootstrap-clean-blog/',
-    subject: 'Start Bootstrap Theme',
-    author: 'Start Bootstrap'
+    subject: 'A sweet but zesty personal blog',
   },
   nav: [
     { path: 'index.html', label: 'Home' },
     { path: 'about.html', label: 'About' },
-    { path: 'contact.html', label: 'Contact' }
   ],
   socials: {
-    twitter: 'https://twitter.com/johndoe',
-    facebook: 'https://facebook.com/johndoe',
-    github: 'https://github.com/johndoe'
+    desktop: 'https://goldberl.github.io',
+    linkedin: 'https://linkedin.com/in/goldberl',
+    github: 'https://github.com/goldberl'
   }
+  
 };
 
 function formatDate( value, format ) {
