@@ -20,7 +20,7 @@ const sitedata = {
     name: 'Metalsmith'
   },
   site: {
-    base: !prod ? 'http://localhost:5000' : 'https://https://calico-lemons.onrender.com/',
+    base: !prod ? 'http://localhost:5000' : 'https://calico-lemons.onrender.com',
     subject: 'A sweet but zesty personal blog',
   },
   nav: [
