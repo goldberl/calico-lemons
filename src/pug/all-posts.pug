@@ -27,7 +27,7 @@ block main
     }
 
   .search-bar
-    input#search(type="text" placeholder="Search posts by title or tags..." autocomplete="off")
+    input#search(type="text" placeholder="Search posts by title, description, or tags..." autocomplete="off")
 
   // Divider between the total posts section and the post previews
   hr
@@ -76,6 +76,7 @@ block main
       const filteredPosts = posts.filter(post => {
         return (
           post.title.toLowerCase().includes(query) ||
+          post.description.toLowerCase().includes(query) ||
           (post.tags && post.tags.some(tag => tag.toLowerCase().includes(query)))
         );
       });
