@@ -1,4 +1,4 @@
-extends default.pug
+extends index.pug
 
 block main
   // Main Content (Post Previews)
@@ -10,6 +10,8 @@ block main
         h3.post-subtitle= post.description
 
       p.post-meta
+        span.post-est_readingTime= "Estimated read time - " + post.ERT + " min"
+        br
         time(datetime=post.isoDate)= post.displayDate
 
       // Display tags for the post as hashtags with inline styles

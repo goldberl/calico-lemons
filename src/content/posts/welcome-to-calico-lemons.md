@@ -3,6 +3,7 @@ title: Welcome to Calico Lemons
 description: A sweet but zesty personal blog
 featured_image: /assets/img/post-img/lemon-post.jpeg
 tags: ["welcome"]
+ERT: 1
 date: 2024-11-20
 draft: false
 page_type: post
