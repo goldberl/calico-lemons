@@ -1,25 +1,107 @@
 extends index.pug
 
 block main
-  // Main Content (Post Previews)
-  each post, index in collections.posts
-    - var divider = (index < collections.posts.length - 1);
-    .post-preview
-      a(href=post.path)
-        h2.post-title= post.title
-        h3.post-subtitle= post.description
 
-      p.post-meta
-        span.post-est_readingTime= "Estimated read time - " + post.ERT + " min"
-        br
-        time(datetime=post.isoDate)= post.displayDate
+  // Display Total Posts Count
+  h3
+    em All Posts: #{collections.posts.length}
 
-      // Display tags for the post as hashtags with inline styles
-      .post-tags
-        each tag in post.tags || []
-          span.hashtag(style="background-color: #f0f0f0; border-radius: 15px; padding: 5px 10px; margin-right: 2px; margin-bottom: 20px; display: inline-block; font-weight: bold; color: #ffa60c")
-            a(style="text-decoration: none; color: inherit;") #{tag}
+  // Add Search Bar
 
-      // Divider between posts
-      if (divider)
-        hr.my-10
+  style.
+    #search {
+        padding: 10px;
+        font-size: 16px;
+        width: 100%;
+        max-width: 400px;
+        border: 2px solid #ccc;
+        border-radius: 10px;
+        outline: none;
+    }
+    #search:focus {
+        border-color: #ffa60c;
+    }
+    .search-bar {
+        display: flex;
+        margin-top: 20px;
+    }
+
+  .search-bar
+    input#search(type="text" placeholder="Search posts by title or tags..." autocomplete="off")
+
+  // Divider between the total posts section and the post previews
+  hr
+
+  // Container for the post previews
+  #posts-list
+    each post, index in collections.posts
+      - var divider = (index < collections.posts.length - 1)
+      .post-preview
+        a(href=post.path)
+          h2.post-title= post.title
+          h3.post-subtitle= post.description
+
+        p.post-meta
+          span.post-est_readingTime= "Estimated read time - " + post.ERT + " min"
+          br
+          time(datetime=post.isoDate)= post.displayDate
+
+        // Display tags for the post as hashtags with inline styles
+        .post-tags
+          each tag in post.tags || []
+            span.hashtag(style="background-color: #f0f0f0; border-radius: 15px; padding: 5px 10px; margin-right: 2px; margin-bottom: 20px; display: inline-block; font-weight: bold; color: #ffa60c")
+              a(style="text-decoration: none; color: inherit;") #{tag}
+
+        // Divider between posts
+        if divider
+          hr.my-10
+
+  // Pager (Link to recent posts)
+  .d-flex.justify-content-end.mb-4
+    a.btn.btn-primary.text-uppercase(href='index.html') ← Recent Posts
+
+  // JavaScript for Search Functionality
+  script.
+    // Parse the serialized posts data passed from Metalsmith
+    const posts = !{postsJson};
+
+    // Get the search input and posts container
+    const searchInput = document.getElementById('search');
+    const postsContainer = document.getElementById('posts-list');
+
+    // Event listener to filter posts based on search input
+    searchInput.addEventListener('input', function() {
+      const query = searchInput.value.toLowerCase();
+      // Filter posts based on title and tags
+      const filteredPosts = posts.filter(post => {
+        return (
+          post.title.toLowerCase().includes(query) ||
+          (post.tags && post.tags.some(tag => tag.toLowerCase().includes(query)))
+        );
+      });
+
+      // Clear current posts
+      postsContainer.innerHTML = '';
+
+      // Render the filtered posts
+      filteredPosts.forEach(post => {
+        const postElement = document.createElement('div');
+        postElement.classList.add('post-preview');
+
+        postElement.innerHTML = `
+          <a href="${post.path}">
+            <h2 class="post-title">${post.title}</h2>
+            <h3 class="post-subtitle">${post.description}</h3>
+          </a>
+          <p class="post-meta">
+            <span class="post-est_readingTime">Estimated read time - ${post.ERT} min</span><br>
+            <time datetime="${post.isoDate}">${post.displayDate}</time>
+          </p>
+          <div class="post-tags">
+            ${post.tags ? post.tags.map(tag => `<span class="hashtag" style="background-color: #f0f0f0; border-radius: 15px; padding: 5px 10px; margin-right: 2px; margin-bottom: 20px; display: inline-block; font-weight: bold; color: #ffa60c"><a style="text-decoration: none; color: inherit;">${tag}</a></span>`).join('') : ''}
+          </div>
+        `;
+
+        postsContainer.appendChild(postElement);
+      });
+    });

@@ -2,9 +2,15 @@ extends default.pug
 
 block main
 
+  h3
+    em Recent Posts
+  
+  // Divider
+  hr
+
   // Main Content (Post Previews)
-  each post, index in collections.posts.slice(0, 5)
-    - var divider = (index < collections.posts.slice(0, 5).length - 1);
+  each post, index in collections.posts.slice(0, 3)
+    - var divider = (index < collections.posts.slice(0, 3).length - 1);
     .post-preview
       a(href=post.path)
         h2.post-title= post.title

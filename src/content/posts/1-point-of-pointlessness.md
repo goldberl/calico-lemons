@@ -2,7 +2,7 @@
 title: The Point of Pointlessness
 description: Healing through snapshots of anime
 featured_image: /assets/img/post-cover-img/lemon-post.jpeg
-tags: ["anime", "japan"]
+tags: ["anime", "essay", "japan"]
 date: 2024-11-21
 ERT: 15
 draft: false
@@ -45,7 +45,7 @@ Their narratives can be stated in one sentence: *Laid Back Camp* follows a group
 
 To see how characteristics of ambience are portrayed in *iyashikei* anime, first consider a scene (Figure 1) from the first episode (18:10 - 21:00) of *Non Non Biyori*. To welcome Hotaru to the rural area, the other characters lead her through a lush forest, where the other side is a clearing with a beautiful cherry blossom tree. The forest is illustrated with vibrant greens and natural browns. Sunlight filters gently through the leaves of the trees, casting a warm glow onto the ground. Small buzzes and chirps from the surrounding insects can be heard, along with the gentle footsteps of the characters on the forest floor. The cherry blossom tree in the clearing is illustrated with a range of soft pink hues and petals float gently around Hotaru as she approaches the tree. The sounds and sights of this scene envelop both the characters and the viewer in a sensory, nature filled environment.
 
-<img class="img-fluid" src="/assets/img/post-img/thesis/fig1.png">
+<img class="img-fluid" src="/assets/img/post-img/1-point-of-pointlessness/fig1.png">
 <span class="caption text-muted">Figure 1: Walk through the forest and cherry blossom tree clearing.</span>
 
 In this particular scene, the slow paced walk through the forest and the extended clips and angles of the cherry blossom tree establish the peaceful and calming atmosphere of the setting. Thus the countryside itself acts as an incubatory space and is portrayed as a safe and welcoming environment. The non-urban, nature filled setting of this anime provides the viewers with a break from a fast paced, urban lifestyle. Although the characters move around different spaces of the countryside, they revisit the same parts of the setting repeatedly. This repetition creates a feeling of comfort and familiarity with the setting as a whole. Throughout the show, the characters participate in a variety of activities. Some of these include attending school, taking walks in nature, and going out to eat. Despite the fact that none of these activities are particularly extraordinary, the characters consistently exhibit their excitement. These simple snapshots of life and cheerful character dynamics create an overall positive atmosphere for the show, as well as give it a sense of timelessness.
@@ -56,7 +56,7 @@ Another example of how characteristics of ambience are presented in *iyashikei* 
 
 The appearance of the characters, the colors of the cooking equipment, and how much the characters’ faces are lit up by the campfire are explicitly illustrated to viewers through the highly visual medium of anime. The vibrant animation allows the viewer to experience this scene with Rin and Nadeshiko through the many sights and sounds of the food and cooking equipment.
 
-<img class="img-fluid" src="/assets/img/post-img/thesis/fig2.png">
+<img class="img-fluid" src="/assets/img/post-img/1-point-of-pointlessness/fig2.png">
 <span class="caption text-muted">Figure 2: Rin and Nadeshiko eating hotpot while camping.</span>
 
 Furthermore, in *Laid Back Camp* the campsite acts as a safe space, offering both the physical warmth of the fire and emotional warmth of friends. It is porous in nature, as it hosts different characters and food dishes throughout the series. Additionally this space is transitory, as it is established and deconstructed every episode. The repetition of establishing these spaces invokes a sense of comfort and familiarity. These scenes all followed a similar sequence of events. 
@@ -69,7 +69,7 @@ For the final example of these ambient characteristics in *iyashikei* anime, the
 
 Additionally, similar to the other anime discussed, activities of the characters in *Flying Witch* are animated with vibrant colors, fitting sound effects, and descriptive dialogue, inviting the viewer to be part of a sensory experience with the characters. This is particularly exemplified in a scene (Figure 3) near the end of the second episode (16:52 - 19:50). Makoto and her cousin Kei are making tempura out of fuki (butterbur), an earthy and bitter sprout native to East Asia. The ingredients, illustrated in vibrant greens, and the sizzling oil of the tempura making process are integral to the sensory environment. When the characters taste their cooking, Makoto describes how salt complements the earthy taste of the fuki tempura, and how there is a bitter aftertaste which adds complexity to the dish. This descriptive dialogue immerses viewers into the experience and lets them imagine the taste for themselves.
 
-<img class="img-fluid" src="/assets/img/post-img/thesis/fig3.png">
+<img class="img-fluid" src="/assets/img/post-img/1-point-of-pointlessness/fig3.png">
 <span class="caption text-muted">Figure 3: Cooking fuki tempura</span>
 
 Consistent with the other anime, *Flying Witch* presents a simplistic, yet cheerful story. Although there may be some supernatural, magical elements in this series, they are not extravagant which allows them to blend in with the rest of the characters’ everyday activities. This magic is just enough to remove viewers from the reality of their own world, but subtle enough for the setting of *Flying Witch* to still present itself as peaceful.
@@ -94,7 +94,7 @@ I refer to these vignettes as “snapshot scenes.” The difference between the 
 
 #### Snapshots of Anime
 
-<img class="img-fluid" src="/assets/img/post-img/thesis/fig4.png">
+<img class="img-fluid" src="/assets/img/post-img/1-point-of-pointlessness/fig4.png">
 <span class="caption text-muted">Figure 4: Difference between the plot structure of *iyashikei* anime (left) and other genres (right)</span>
 
 The chart on the left depicts the structure of an *iyashikei* anime, while the right illustrates the typical story flow of other genres. On the left, the basic premise represents the one sentence summary that can be provided which encapsulates the little background information needed to fully understand each story. The arrows pointing outwards towards the various “snapshot scenes” emphasize that each scene is self-contained and focuses on the present moment without building off other scenes. The only thing that these snapshots have in common is that they all happen in a similar setting with the same characters that are established from the premise of the show.
@@ -124,3 +124,5 @@ Although I enjoy watching anime, I do not usually watch *iyashikei* anime. I pre
 If you are want to read more about this topic or check out my sources, please see the <a href="/assets/files/thesis.pdf" target ="_blank">full thesis.</a> That's all for now, see you in the next post!
 
 ***End.***
+
+<a href="/index.html" class="btn btn-primary" style="float: right; margin-bottom: 20px; text-decoration: none;">RETURN TO POSTS</a>

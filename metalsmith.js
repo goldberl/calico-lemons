@@ -56,7 +56,6 @@ function formattedDatesForPosts(files, metalsmith) {
     }
 
     if (post.tags && Array.isArray(post.tags)) {
-      // console.log(`Post: ${post.title}, Tags: ${post.tags}`); // Log post tags
       post.tags.forEach(tag => {
         if (!sitedata.tags.includes(tag)) {
           sitedata.tags.push(tag);
@@ -90,6 +89,21 @@ function msBuild() {
       }
     }))
     .use(formattedDatesForPosts)
+    .use((files, metalsmith, done) => {
+      // Serialize posts into JSON for Pug template
+      const posts = metalsmith.metadata().collections.posts.map(post => ({
+        title: post.title,
+        description: post.description,
+        path: post.path,
+        tags: post.tags,
+        ERT: post.ERT,
+        isoDate: post.isoDate,
+        displayDate: post.displayDate
+      }));
+
+      metalsmith.metadata().postsJson = JSON.stringify(posts);  // Add serialized posts to metadata
+      done();
+    })
     .use(layouts({
       directory: 'src/pug',
       default: 'default.pug'
@@ -109,10 +123,8 @@ function msBuild() {
     .use(tags({
       property: 'tags',
     }, (files, done) => {
-      // Log to ensure the files are being processed
-      // console.log('Generated files in metalsmith-tags:', Object.keys(files));
       done();
-    }))  
+    }));
 }
 
 const ms = msBuild();
