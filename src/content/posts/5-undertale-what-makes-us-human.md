@@ -11,6 +11,6 @@ page_type: post
 
 # This post is not complete yet.
 
-***End.***
+**_今日は明日も頑張っている　ー　End._**
 
-<a href="/index.html" class="btn btn-primary" style="float: right; margin-bottom: 20px; text-decoration: none;">RETURN TO POSTS</a>
+<a href="/all-posts.html" class="btn btn-primary" style="float: right; margin-bottom: 20px; text-decoration: none;">RETURN TO POSTS</a>

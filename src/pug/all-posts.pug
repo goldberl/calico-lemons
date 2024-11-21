@@ -1,33 +1,14 @@
 extends index.pug
 
 block main
-
-  // Display Total Posts Count
+  // Display Total Posts Count (initially all posts count)
   h3
-    em All Posts: #{collections.posts.length}
+    // Display filtered post count dynamically
+    em#filtered-post-count All Posts
 
-  // Add Search Bar
-
-  style.
-    #search {
-        padding: 10px;
-        font-size: 16px;
-        width: 100%;
-        max-width: 400px;
-        border: 2px solid #ccc;
-        border-radius: 10px;
-        outline: none;
-    }
-    #search:focus {
-        border-color: #ffa60c;
-    }
-    .search-bar {
-        display: flex;
-        margin-top: 20px;
-    }
-
+  // Search Bar Section
   .search-bar
-    input#search(type="text" placeholder="Search posts by title, description, or tags..." autocomplete="off")
+    input#search(type="text" placeholder="Search by title, description, tags, or date..." autocomplete="off")
 
   // Divider between the total posts section and the post previews
   hr
@@ -35,7 +16,7 @@ block main
   // Container for the post previews
   #posts-list
     each post, index in collections.posts
-      - var divider = (index < collections.posts.length - 1)
+      - var divider = (index < collections.posts.length - 1) // divider after every post except the last
       .post-preview
         a(href=post.path)
           h2.post-title= post.title
@@ -54,7 +35,7 @@ block main
 
         // Divider between posts
         if divider
-          hr.my-10
+          hr.my-4
 
   // Pager (Link to recent posts)
   .d-flex.justify-content-end.mb-4
@@ -65,27 +46,37 @@ block main
     // Parse the serialized posts data passed from Metalsmith
     const posts = !{postsJson};
 
-    // Get the search input and posts container
+    // Get the search input, posts container, and filtered post count element
     const searchInput = document.getElementById('search');
     const postsContainer = document.getElementById('posts-list');
+    const filteredPostCount = document.getElementById('filtered-post-count');
+    const allPostsCount = #{collections.posts.length};
 
-    // Event listener to filter posts based on search input
-    searchInput.addEventListener('input', function() {
-      const query = searchInput.value.toLowerCase();
-      // Filter posts based on title and tags
+    // Function to render posts and update counts
+    function renderPosts(query) {
       const filteredPosts = posts.filter(post => {
         return (
           post.title.toLowerCase().includes(query) ||
           post.description.toLowerCase().includes(query) ||
+          post.displayDate.toLowerCase().includes(query) ||
           (post.tags && post.tags.some(tag => tag.toLowerCase().includes(query)))
         );
       });
+
+      // Update filtered post count
+      if (filteredPosts.length === allPostsCount) {
+        // If filtered posts equal all posts, show total posts count
+        filteredPostCount.textContent = `All Posts: ${allPostsCount}`;
+      } else {
+        // Show filtered posts count
+        filteredPostCount.textContent = `Filtered Posts: ${filteredPosts.length}`;
+      }
 
       // Clear current posts
       postsContainer.innerHTML = '';
 
       // Render the filtered posts
-      filteredPosts.forEach(post => {
+      filteredPosts.forEach((post, index) => {
         const postElement = document.createElement('div');
         postElement.classList.add('post-preview');
 
@@ -99,10 +90,52 @@ block main
             <time datetime="${post.isoDate}">${post.displayDate}</time>
           </p>
           <div class="post-tags">
-            ${post.tags ? post.tags.map(tag => `<span class="hashtag" style="background-color: #f0f0f0; border-radius: 15px; padding: 5px 10px; margin-right: 2px; margin-bottom: 20px; display: inline-block; font-weight: bold; color: #ffa60c"><a style="text-decoration: none; color: inherit;">${tag}</a></span>`).join('') : ''}
+            ${post.tags ? post.tags.map(tag => `<span class="hashtag" style="background-color: #f0f0f0; border-radius: 15px; padding: 5px 10px; margin-right: 2px; margin-bottom: 20px; display: inline-block; font-weight: bold; color: #ffa60c"><a style="text-decoration: none; color: inherit;">${tag}</a></span>`).join('') : '' }
           </div>
         `;
 
         postsContainer.appendChild(postElement);
+
+        // Add a divider after the post if it's not the last post
+        if (index < filteredPosts.length - 1) {
+          const dividerElement = document.createElement('hr');
+          dividerElement.classList.add('my-4');
+          postsContainer.appendChild(dividerElement);
+        }
       });
+
+      // If no posts match the filter, show a message
+      if (filteredPosts.length === 0) {
+        postsContainer.innerHTML = '<p>No posts found matching your search criteria.</p>';
+      }
+    }
+
+    // Initial render (showing all posts count)
+    renderPosts('');
+
+    // Event listener to filter posts based on search input
+    searchInput.addEventListener('input', function() {
+      const query = searchInput.value.toLowerCase();
+      renderPosts(query);
     });
+
+  // Style for the search bar
+  style.
+    #search {
+      padding: 10px;
+      font-size: 16px;
+      width: 100%;
+      max-width: 400px;
+      border: 2px solid #ccc;
+      border-radius: 10px;
+      outline: none;
+    }
+
+    #search:focus {
+      border-color: #ffa60c;
+    }
+
+    .search-bar {
+      display: flex;
+      margin-top: 20px;
+    }
