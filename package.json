@@ -35,6 +35,7 @@
     "@fortawesome/fontawesome-free": "^5.15.4",
     "bootstrap": "5.3.2",
     "font-awesome": "^4.7.0",
+    "metalsmith-tags": "^2.1.0",
     "word-count": "^0.2.2"
   },
   "devDependencies": {

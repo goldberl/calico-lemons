@@ -1,0 +1,8 @@
+extends layout.pug
+
+block content
+  h1= tag // Outputs the current tag (e.g., 'welcome')
+  ul
+    each post in posts
+      li
+        a(href=post.url)= post.title

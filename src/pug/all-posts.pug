@@ -1,18 +1,23 @@
 extends default.pug
 
 block main
-    // Main Content
-    each post, index in collections.posts
-        - var divider = (index < collections.posts.length - 1);
-        // Post preview
-        .post-preview
-            a(href=post.path)
-                h2.post-title= post.title
-                h3.post-subtitle= post.description
+  // Main Content (Post Previews)
+  each post, index in collections.posts
+    - var divider = (index < collections.posts.length - 1);
+    .post-preview
+      a(href=post.path)
+        h2.post-title= post.title
+        h3.post-subtitle= post.description
 
-            p.post-meta
-                time(datetime=post.isoDate)= post.displayDate 
+      p.post-meta
+        time(datetime=post.isoDate)= post.displayDate
 
-            // Divider
-            if (divider)
-                hr.my-4
+      // Display tags for the post as hashtags with inline styles
+      .post-tags
+        each tag in post.tags || []
+          span.hashtag(style="background-color: #f0f0f0; border-radius: 15px; padding: 5px 10px; margin-right: 2px; margin-bottom: 20px; display: inline-block; font-weight: bold; color: #ffa60c")
+            a(style="text-decoration: none; color: inherit;") #{tag}
+
+      // Divider between posts
+      if (divider)
+        hr.my-10
