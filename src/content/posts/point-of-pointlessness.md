@@ -1,6 +1,6 @@
 ---
 title: The Point of Pointlessness
-description: Healing Through Snapshots of Anime
+description: Healing through snapshots of anime
 featured_image: /assets/img/post-img/lemon-post.jpeg
 tags: ["anime", "japan"]
 date: 2024-11-21
