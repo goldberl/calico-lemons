@@ -1,7 +1,7 @@
 ---
 title: Welcome to Calico Lemons
 description: A sweet but zesty personal blog
-featured_image: /assets/img/post-img/lemon-post.jpeg
+featured_image: /assets/img/post-cover-img/lemon-post.jpeg
 tags: ["welcome"]
 ERT: 1
 date: 2024-11-20
@@ -19,7 +19,7 @@ Life is full of so many experience, both good and bad. For my own purposes, I ha
 
 The hardest part of starting a blog (besides figuring out how to code it) was coming up with a name. Two things I have a great affinity towards are cats and food. Calicos are particularly close to my heart, as I own one back in America, along with a brown mackerel tabby. But Tabby Lemons doesn't really have the same ring to it as Calico Lemons, does it? I have a soft spot for the black, white, and orange mix, perhaps because my favorite color is orange.
 
-<img class="img-fluid" src="/assets/img/home-bg.jpeg" style="border: 10px double #000;">
+<img class="img-fluid" src="/assets/img/page-cover-img/home-bg.jpeg" style="border: 10px double #000;">
 
 <span class="caption text-muted">Some people say when life gives you lemons, make lemonade. But you can't make lemonade without water and sugar. So I say, when life gives you lemons, find a cat. Life is sweeter with a cat after all.</span>
 
