@@ -5,11 +5,39 @@ featured_image: /assets/img/post-cover-img/lemon-post.jpeg
 tags: ["software", "ui", "tips"]
 date: 2024-11-22
 ERT: 5
-draft: false
+draft: true
 page_type: post
 ---
 
-# This post is currently being written...
+## What is CARP?
+
+Contrast, alignment, repetition, proximity
+
+#### Contrast
+
+Contrast
+
+#### Alignment
+
+Alignment
+
+#### Repetition
+
+Repetition
+
+#### Proximity
+
+Proximity
+
+## UI: Before and After
+
+<img class="img-fluid" src="/assets/img/post-img/ui-carp/ui-before.png">
+
+<span class="caption text-muted">Before applying CARP principles</span>
+
+<img class="img-fluid" src="/assets/img/post-img/ui-carp/ui-after.png">
+
+<span class="caption text-muted">After applying CARP principles</span>
 
 **_今日は明日も頑張っている　ー　End._**
 
