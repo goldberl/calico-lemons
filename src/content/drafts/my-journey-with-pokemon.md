@@ -1,11 +1,11 @@
 ---
-title: Moving to Japan
-description: Making a home on the other side of the world
+title: My Journey with Pokemon
+description: From Johto to Galar
 featured_image: /assets/img/post-cover-img/lemon-post.jpeg
-tags: ["experience", "japan"]
-date: 2024-11-22
-ERT: 5
-draft: true
+tags: ["reflection", "pokemon", "games"]
+date:
+ERT: 7
+draft: false
 page_type: post
 ---
 

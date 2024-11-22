@@ -3,9 +3,9 @@ title: I Pretended to Drink Coffee for an Hour
 description: Navigating networking and being polite
 featured_image: /assets/img/post-cover-img/lemon-post.jpeg
 tags: ["reflection", "story"]
-date: 2024-11-24
+date:
 ERT: 6
-draft: true
+draft: false
 page_type: post
 ---
 

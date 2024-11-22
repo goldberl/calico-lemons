@@ -1,11 +1,11 @@
 ---
-title: Defining Humanity Through Undertale
-description: What makes us human according to Undertale?
+title: Moving to Japan
+description: Making a home on the other side of the world
 featured_image: /assets/img/post-cover-img/lemon-post.jpeg
-tags: ["essay", "games", "undertale"]
-date: 2024-11-25
-ERT: 7
-draft: true
+tags: ["experience", "japan"]
+date:
+ERT: 5
+draft: false
 page_type: post
 ---
 

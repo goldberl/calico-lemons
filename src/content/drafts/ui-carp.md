@@ -3,11 +3,13 @@ title: How to Improve UI Designs
 description: Applying CARP design principles
 featured_image: /assets/img/post-cover-img/lemon-post.jpeg
 tags: ["software", "ui", "tips"]
-date: 2024-11-22
+date:
 ERT: 5
-draft: true
+draft: false
 page_type: post
 ---
+
+# This post is not complete yet.
 
 ## What is CARP?
 

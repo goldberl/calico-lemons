@@ -1,11 +1,11 @@
 ---
-title: My Journey with Pokemon
-description: From Johto to Galar
+title: Defining Humanity Through Undertale
+description: What makes us human according to Undertale?
 featured_image: /assets/img/post-cover-img/lemon-post.jpeg
-tags: ["reflection", "pokemon", "games"]
-date: 2024-11-23
+tags: ["essay", "games", "undertale"]
+date:
 ERT: 7
-draft: true
+draft: false
 page_type: post
 ---
 
