@@ -5,7 +5,7 @@ featured_image: /assets/img/post-cover-img/lemon-post.jpeg
 tags: ["reflection", "pokemon", "games"]
 date: 2024-11-23
 ERT: 7
-draft: false
+draft: true
 page_type: post
 ---
 

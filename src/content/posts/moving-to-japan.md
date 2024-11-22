@@ -1,11 +1,11 @@
 ---
-title: I Pretended to Drink Coffee for an Hour
-description: Navigating networking and being polite
+title: Moving to Japan
+description: Making a home on the other side of the world
 featured_image: /assets/img/post-cover-img/lemon-post.jpeg
-tags: ["reflection", "story"]
-date: 2024-11-24
-ERT: 6
-draft: false
+tags: ["experience", "japan"]
+date: 2024-11-22
+ERT: 5
+draft: true
 page_type: post
 ---
 
