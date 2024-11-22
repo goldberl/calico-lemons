@@ -1,5 +1,5 @@
 ---
-title: The Time I Pretended to Drink Coffee for an Hour
+title: I Pretended to Drink Coffee for an Hour
 description: Navigating networking and being polite
 featured_image: /assets/img/post-cover-img/lemon-post.jpeg
 tags: ["reflection", "story"]
