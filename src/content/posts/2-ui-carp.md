@@ -4,7 +4,7 @@ description: Applying CARP design principles
 featured_image: /assets/img/post-cover-img/lemon-post.jpeg
 tags: ["software", "ui", "tips"]
 date: 2024-11-25
-ERT: 3
+ERT: 2.5
 draft: false
 page_type: post
 ---
