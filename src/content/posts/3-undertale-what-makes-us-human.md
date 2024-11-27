@@ -34,7 +34,7 @@ But first, let's look at the information given to us in the True Pacifist Route.
 
 Entry #5 in the True Lab reads, "The will to keep living... The resolve to change fate. Let's call this power... 'Determination.'" Additionally, in the Genocide Route, after Undyne  gets hit protecting Monster Kid, she says, "Deep, deep in my soul, there's a burning feeling I can't describe. A burning feeling that WON'T let me die." 
 
-Overall, the game defines determination' as 'a will to live' and 'the resolve to change fate.' Similar to that, 'determination' can be defined as 'the willpower not to give up' or 'the ambition to achieve something.' Now we wonder, do you need a strong soul to have determination? Or does your soul become strong if you have determination? Perhaps it is a mix of both.
+Overall, the game defines 'determination' as 'a will to live' and 'the resolve to change fate.' Similar to that, 'determination' can be defined as 'the willpower not to give up' or 'the ambition to achieve something.' Now we wonder, do you need a strong soul to have determination? Or does your soul become strong if you have determination? Perhaps it is a mix of both.
 
 <div style="display: flex; justify-content: center; align-items: center; border: 3px solid #000; width: fit-content; margin: 0 auto;">
     <img class="img-fluid" src="/assets/img/post-img/3-undertale-what-makes-us-human/determination.png" alt="Image">
@@ -47,7 +47,7 @@ It may be hard to believe that the monsters in the Underground don't have 'a wil
 Flowey is a bit of a special case because he is PURE determination. He doesn't exactly have a soul and determination was injected into him. It can be argued that Flowey has Asriel's soul, but even if he does, Asriel's soul is scattered into dust throughout Flowey, so I'm not sure that counts as a soul. Looking at Flowey's nature is a good transition to talking about the Genocide Route. Flowey is a murderous, uncompassionate being that feels no emotion. That's also exactly how we could describe the player during the Genocide Route.
 
 ## Genocide Route - Monsters See You as Just Another Monster
-Throughout the Genocide Route, there are many instances where monsters do not treat you as human, yet as another monster. In other words, the Genocide Route strips the player of their compassion, and overall their humanity. I think the main thing we can take away from this is that part of being a human is being compassionate and being able to feel emtions. Most monsters (except Toriel and Alphys) try to kill you at some point... so yeah they don't have much compassion either.
+Throughout the Genocide Route, there are many instances where monsters do not treat you as human, instead they treat you as just another monster. In other words, the Genocide Route strips the player of their compassion, and overall their humanity. I think the main thing we can take away from this is that part of being a human is being compassionate and being able to feel emotions. Most monsters (except Toriel and Alphys) try to kill you at some point... so yeah they don't have much compassion either.
 
  Let's list all the instances in the Genocide Route where the monsters denounce the player's humanity.
 
@@ -116,7 +116,7 @@ In other words, you may look human, but your humanity is long gone.
 **Sans fight** - Sans doesn't exactly mention the player's humanity here, but it's worth noting that his goal is not to kill you. Sans knows he can't kill you because you will always come back if you have enough determination. That is, determination in the real world. Sans' real goal is to make you lose your determination and give up. He wants you to give up fighting him and reset the world so he can see his friends again. That's why his battle is so difficult. To discourage the player from trying to defeat him.
 
 
-**Asgore** - In the Neutral/Pacifist Routes, Asgore tells the player how he so badly wants to ask you if you want to have a cup of tea, but he can't since you are a human that he has to defeat for your soul. In the Genocide Route, Asgore doesn't see you as human. He asks: 
+**Asgore** - In the Neutral/Pacifist Routes, Asgore tells the player how he so badly wants to ask you if you want to have a cup of tea, but he can't since you are a human that he has to defeat you for your soul. In the Genocide Route, Asgore doesn't see you as human. He asks: 
 
 <blockquote style="text-align: center; font-size: 1.3em; margin: 20px;">
 "What kind of monster are you...? Sorry I can not tell. Why not settle this  over a nice cup of tea?" 
