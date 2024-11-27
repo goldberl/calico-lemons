@@ -48,7 +48,7 @@ Although it was just a cup of coffee, I didn't want to come off as rude or make 
 
 <span class="caption text-muted">Cats networking over coffee | AI Generated</span>
 
-When it comes to talking to higher-ups or networking, generally I would like to come off as a polite and approachable person. Thus this coffee situation ensued. In this case, pretending to drink coffee was a pretty small thing, so no harm done. However, if I was allergic to coffee, I definitely would have said something and instead of pretending to drink. 
+When it comes to talking to higher-ups or networking, generally I would like to come off as a polite and approachable person. So this coffee situation ensued. In this case, pretending to drink coffee was a pretty small thing, so no harm done. However, if I was allergic to coffee, I definitely would have said something instead of pretending to drink it. 
 
 ## Final Thoughts
 
