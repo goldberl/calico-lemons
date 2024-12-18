@@ -3,7 +3,7 @@ title: Moving to Japan
 description: Making a home on the other side of the world
 featured_image: /assets/img/post-cover-img/lemon-post.jpeg
 tags: ["experience", "japan"]
-date: 2024-12-13
+date: 2024-12-18
 ERT: 14
 draft: false
 page_type: post
@@ -27,7 +27,7 @@ Since I did not know when my COE arrived, and you have to make appointments with
 Around 5 weeks after I sent the application to the HR department, my COE arrived on April 11, 2024. My parents and I took the trip up to the NYC Japan Consulate and applied for my visa. We also stopped to have lunch with one of my best friends from childhood, which was a nice bonus. A week later, my visa had arrived. 
 
 #### Job Preparation & Apartment Hunting
-During the 5 weeks it took my COE to arrive, I actually was pretty busy despite all of the "waiting around" I thought I would be doing. unfortunately, the rest of February and March was emotionally draining for me, as I had just gotten out of a pretty painful 1.5 year relationship. It was my first relationship and thus my first breakup which threw me into a whirlwind of uncomfortable emotions. As I was navigating those emotions, I knew I still needed to prepare for my move to Japan to set myself up for success. After all, I worked so hard to get here, I should start it off well.
+During the 5 weeks it took my COE to arrive, I actually was pretty busy despite all of the "waiting around" I thought I would be doing. Unfortunately, the rest of February and March was emotionally draining for me, as I had just gotten out of a pretty painful 1.5 year relationship. It was my first relationship and thus my first breakup which threw me into a whirlwind of uncomfortable emotions. As I was navigating those emotions, I knew I still needed to prepare for my move to Japan to set myself up for success. After all, I worked so hard to get here, I should start it off well.
 
 The first thing I did was looked at was C++. The job listing posted that required skills included experience with that programming language, and I had none. So I followed along some YouTube tutorials and got a decent understanding of the basics. I was not sure exactly what kind of project I would be working on, so I was doing this to fill up time and keep my mind active.
 
@@ -60,23 +60,50 @@ I woke up the next day and decided to go get some food. Because I arrived to the
 
 For my first meal back this time, I stopped by a nice udon place in Sakae (center city area of Nagoya). I love places like this in Japan because you technically do not have to talk to anyone to get your food. Instead, you buy a meal ticket at a vending machine for the food you want, and give it to someone behind the counter. They then prepare the food for you and serve you and you don't even have to say anything. I had niku udon (beef udon soup) and it was delicious. As I walked out, I thanked the staff for my meal, which they always appreciate, and went on with my day.
 
-## Living Accommodations
+## Building a Life in Japan
+Since I signed a lease before I came to Japan, I already had an apartment. Now I just needed to figure out how everything else worked, such as cell service, where to throw out trash/recycling, how to pay my bills, what was a convenient to walk to in my neighborhood, etc. Since I studied abroad in Japan before, I already knew how the subway system worked which made things a lot less stressful. If you ask anyone who knows me, they will tell you how directionally challenged I am, so if I can navigate the Nagoya subway lines, anyone can.
 
 #### Cell Service
+Getting cell service was not a problem at all. I used *Mobal*, the same service I used when I studied abroad. I liked this service because they give you a Japanese phone number as well, which you need to open up a bank account and other memberships here. I paid a little more than $20 a month for 5 GB of high speed data. If those 5 GB ran out, I would still have data, but at a severely reduced rate. A few months later, I learned this was a really bad deal and was told to switch to *ahamo*, a Japanese service provider where I could get 30 GB a month for just under $20. After I figured out how to port out my number from *Mobal*, I made the switch. This entire process was actually quite simple, and I did it all online without having to talk with anyone.
 
 #### My Apartment
+Once I got the key to my apartment, I was excited to move in and make it my own. I remember walking into it for the first time and thinking that it was smaller than I thought, but I can make this work. There is a sleeping area, a kitchen, and a bathroom all in this 20 square (215 square feet) meter space. I chose a furnished apartment because I did not want to deal with the stress and expense of buying that kind of stuff when I got here. The apartment came with a bed, TV stand, TV, microwave, fridge, small table, and washing machine. 
 
-#### Trip to Ikea
+#### Trip to Ikea & Nitori
+Even though the apartment came furnished, I still needed to get a few things from Ikea to make it even more homey. My sweet host family offered to drive me there and move everything I buy into my apartment. We woke up early one morning and off we went. Ikea in Japan isn't too different to Ikea in America, in fact, they are quite similar. Only difference was Americans pronounce Ikea as *eye-key-yah* while the Japanese pronounce it *ee-kay-yah*. 
+
+I had a lot of fun walking through the whole store and checking things out. Some things I bought included a few lamps, a really nice coatrack, a bedside table, and a rolling cart for my kitchen. We came back from Ikea and my host family helped me build and set everything up in my apartment. I remember they put together the funky looking coat rack I got, which I am appreciative of because it looked kind of complicated to put together. Afterwards, I had my first meal in the apartment with them: Costco sushi. It was a lovely day.
+
+The rest of my essentials, such as pots, pans, bedding, etc., I bought from Nitori. My host family was kind enough to help me with that as well. And they gave me some old dishes and drinking glasses that they were not using so I didn't have to buy any. I am very grateful for that.
 
 #### Figuring Out Japanese Bedding
+Surprisingly, one of the most difficult things for me to do was figure out Japanese bedding. The bed my apartment came with was a typical bed frame and not a futon, so I thought I knew what to look for. In America, my bed has a fitted sheet, top sheet, and a blanket. Those were the three items that I was looking for in Nitori as well. Specifically, a fitted sheet & top sheet set (like they sell in America), and then a blanket. Well, I quickly learned that, futons aside, Japanese beds were a bit different than what I was used to.
+
+In Japan, bedframe beds have the following three parts: fitted sheet, duvet, and duvet cover. There is no top sheet. And as I was looking at the Japanese terms, I got even more confused.These were the terms I saw floating around Nitori:
+-  *Shikibuton* (敷布団): Traditional Japanese bottom futon mattress that is put directly on the floor.
+- *Kakebuton* (掛け布団): Duvet that is used like a blanket for the futon.
+- *Shikibutonkaba (cover)* (敷布団カバー): Cover for a *shikibuton*.
+- *Kakebutonkaba (cover)* (掛け布団カバー): Cover for a *kakebuton*. 
+
+Now I thought that a futon was just something you sleep on and did not realize a *kakebuton* was a duvet. Also, I could not tell if a  *shikibutonkaba* and a fitted sheet were the same thing. Turns out they are different. A *shikibutonkaba* goes around the whole bottom futon, while a fitted sheet just hugs the top of the mattress. I soon figured out that fitted sheets was *supporishi-tsu* (シーツ) in Japanese. Once I got that all down, I was finally able to buy my bedding.
 
 #### Seria Saves My Wallet
+One of the best things about Japan are its dollar stores. They are cheap, convenient, and the quality of the items is actually very good for the price. The one I went to the most was Seria, as there was one located in my local neighborhood mall. These dollar stores sell all kinds of things from dishes, to kitchen/bath utilities, to yarn and other crafty items. I mostly got smaller things here such as my kitchen tools (tongs, ladle, etc) and cleaning supplies. Seria also has an assortment of attractive items that I buy (even if I don't really need them) such as picture frames, magnets, jars, and bags. And the best thing is, everything is only 100 yen (less than 75 cents USD)!
 
 ## First Day of Work
+I woke up on May 13, 2024 for my first day of work. Of course I was nervous, and I didn't know what to expect. I did scope out my office a few days before to make sure I could get there on time. It took me around 40 minutes from my apartment to get there, which seems long but considering the average home to work commute time in Japan in an hour, it was not too bad. I was told to be in the office at 9:30 AM. I woke up early that day so I hung around in my apartment in the morning before hopping on a train around 8:30 AM.
+
+I got to the office door and opened it. Everyone looked up and I saw one person I recognized: the manager who interviewed me. He smiled and stood up to shake my hand and welcome me into the office. I was then given a desk and a computer. I set up the computer and another coworker helped me set up the project that I was going to work on. Over the next few days, I met more of my coworkers and went out to lunch with them. Overall, I am thankful everyone was quite kind and willing to help me.
 
 #### Navigating Company Culture
+The company I work for is unique in a lot of ways I think. It is a Japanese company located in Nagoya and its employees are from all around the world. Unlike traditional Japanese companies, we don't have pressure to work overtime or go to nomikais (after work drinking parties). A lot of employees are under the age of 50 years old, and I was the youngest in the company when I joined at 23 years old. Two weeks later, a 22 year old joined so that title was short lived. 
+
+Anyways, it took a bit of time to get used to working a desk job. The last time I sat at a desk for eight hours a day straight was when I was high school. I eventually found my rhythm though and thanks to my coworkers, found some good restaurants to go to for lunch.
+
+As in most STEM jobs, the majority of the workforce was male and this company was no exception. It definitely felt a little strange being one of the youngest and a woman who was given a good amount of responsibility from the start. Major imposter syndrome. But I am happy to say that mostly everyone was respectful and kind to me despite my inexperience. I definitely learned a lot in the first six months on the job, both technically, and about work culture and myself as a person.
 
 #### First Job Impressions 
+I am really happy so far with the job. I did not have any expectations coming in, so I think that my open mind helped me adapt to the environment quickly. The first project I worked on was a bit overwhelming but built up my confidence that I can learn quickly on the job. The second project I worked on was really fun, thanks to what I learned on the first project. I am looking forward to learning a lot more moving forward.
 
 ## Social Life & Free Time
 
