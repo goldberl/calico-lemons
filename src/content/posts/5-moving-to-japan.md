@@ -4,7 +4,7 @@ description: Making a home on the other side of the world
 featured_image: /assets/img/post-cover-img/lemon-post.jpeg
 tags: ["experience", "japan"]
 date: 2024-12-18
-ERT: 14
+ERT: 19
 draft: false
 page_type: post
 ---
@@ -13,6 +13,12 @@ page_type: post
 What is the coolest thing you have ever done? I've done many cool things, but one of them was definitely moving across the world when I was 23 years old. I have always liked Japan, especially its pop culture (anime & manga) and studying the language. And as much as I loved my 4 month study abroad experience in Nagoya, I never imagined I would live there. 
 
 The majority of my childhood was set in the suburbs of Philadelphia, Pennsylvania and I was quite tired of living there. I did not have many friends, I did not like to drive, and I did not like the suburbs. So when I received a job offer as a software engineer based in Nagoya, I was really excited to try living abroad in a city that I knew I loved.
+
+<div style="display: flex; justify-content: center; align-items: center; border: 3px solid #000; width: fit-content; margin: 0 auto;">
+    <img class="img-fluid" src="/assets/img/post-img/4-I-pretended-to-drink-coffee-for-an-hour/coffee.png" alt="Image" style="width: 500px; height: auto;">
+</div>
+
+<span class="caption text-muted">Caption | Source</span>
 
 ## The Invitation
 February 7, 2024. On that day, I received one of the best emails in my life. I just got a job offer from a software engineer company located in Nagoya, Japan that I had interviewed with earlier that week. Just one month earlier, I had come back from my first time in Japan: a four month stay with a host family in Nagoya while I immersed myself in the language at an intensive language study program in Nanzan University. When I left my host family, I told them I would be back to visit Japan, but I didn't think it would be this soon.
@@ -103,18 +109,25 @@ Anyways, it took a bit of time to get used to working a desk job. The last time 
 As in most STEM jobs, the majority of the workforce was male and this company was no exception. It definitely felt a little strange being one of the youngest and a woman who was given a good amount of responsibility from the start. Major imposter syndrome. But I am happy to say that mostly everyone was respectful and kind to me despite my inexperience. I definitely learned a lot in the first six months on the job, both technically, and about work culture and myself as a person.
 
 #### First Job Impressions 
-I am really happy so far with the job. I did not have any expectations coming in, so I think that my open mind helped me adapt to the environment quickly. The first project I worked on was a bit overwhelming but built up my confidence that I can learn quickly on the job. The second project I worked on was really fun, thanks to what I learned on the first project. I am looking forward to learning a lot more moving forward.
+I am happy so far with the job. I did not have any expectations coming in, so I think that my open mind helped me adapt to the environment quickly. The first project I worked on was a bit overwhelming but built up my confidence that I can learn quickly on the job. The second project I worked on was really fun, thanks to what I learned on the first project. I am looking forward to learning a lot more moving forward.
 
 ## Social Life & Free Time
+Outside of work, I wanted to find other interesting things to do. As an adult, I think it is more difficult to get to know a wide range of people because you spend most of your time at work. Thus, I looked for social groups to join and other ways to interact with people.
 
-#### Typical Weekend
+#### Typical Weekend & Meetup Events
+In the beginning, I joined a taekwondo classroom that I participated in on Saturdays. Right before I came to Japan, I earned my first degree black belt so I wanted to continue doing taekwondo in Japan for a bit. It was a nice thing to do for a few months, but I stopped going because I felt it was pricy for what I got and it was not much of a social experience for me. The class was full of mostly adults and their kids, all male. I did think it was cool that the class was in Japanese though.
 
-#### Meetup Events
+Aside from that, I downloaded a Meetup app on my phone and participated in two meetup groups regularly. One was a Japanese and English language exchange that took place every week on Sunday afternoon. Most of the people who I met there were native Japanese speakers, but I did not really form any friendships at those events. The other group I went to often was a board game meetup on Saturday afternoons. There, I met a lot of interesting people (mostly international) and had a lot of fun playing new board games. I never thought of myself as a board game person, but I learned there were actually a lot of fun games. Some of my favorite games I played included *Cryptid* and *The Sheriff of Nottingham.*
+
+Besides meetup events, I like to just window shop, relax, crochet, and eat good food around Nagoya. 
 
 #### Travel
+As a kid, I never looked forward to the limited vacation days that adults get. It was nice having a long summer break, short fall break, and week long winter and spring breaks while I was a student. In Japan, we have weekends, national holidays, and 10 paid vacation days off every year. In other words, I have to take off work to go on any vacation longer than an overnight trip. Sometimes the national holidays line up well with weekends and we get three day weekends, which are nice.
 
+I have not really had the chance to travel outside of Nagoya too much. When my family visited me at the end of my study abroad session, we took day trips to Kyoto, Osaka, Kobe, and spent a few days in Tokyo. That was quite fun. Since I have started working, I have gone on short trips to Tokyo and Yokohama. Besides that, I also enjoy exploring the local sites such as Nagoya Castle, Okazaki, Nagashima Spa Land (amusement park), and Legoland Japan. I have a trip planned to Hakone over my holiday vacation, which I am looking forward to.
 
 ## Final Thoughts
+In the past year and a half, my life has changed so much. I graduated college, studied abroad in Japan, spent time in America applying to jobs for a bit, and then headed right back to Japan. There have been a lot of ups and downs throughout this journey, but I don't regret any of it. Even though the hard times were really tough, I think they definitely led me to grow as a person and appreciate the good times even more. I am happy to say I think I will look back at this time with great fondness in ten or twenty years. I do plan on moving back to America some day, but for now I can confidently say that moving to Japan was definitely one of the best decisions I have ever made. 
 
 **_今日は明日も頑張っている　ー　End._**
 
