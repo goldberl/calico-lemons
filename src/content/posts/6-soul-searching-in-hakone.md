@@ -17,18 +17,18 @@ I planned to take the shinkansen to Atami, and travel to a small town called Yug
 
 I ate a nice lunch in a nearby restaurant and then headed to Atami Castle. It was relatively close and I had some time before I could check into the hotel. During this trip, I had to rely on Japan's bus system to transport me to most places since the subway and train network did not cover the places I wanted to go. I took a bus to Atami Castle and was very surprised that it was on a very large and steep hill that I was at the bottom of. I didn't do any research before hand on the topography of Atami, but this was the first of many hills I would find here.
 
-<div style="display: flex; justify-content: center; gap: 1em;">
-
-<div style="display: flex; justify-content: center; align-items: center; border: 3px solid #000; width: fit-content;">
-    <img class="img-fluid" src="/assets/img/post-img/6-soul-searching-in-hakone/atamicastle1.jpg" alt="Image" style="width: auto; height: 400px;">
+<div style="display: flex; justify-content: center; align-items: center; border: 3px solid #000; width: fit-content; margin: 0 auto;">
+    <img class="img-fluid" src="/assets/img/post-img/6-soul-searching-in-hakone/atamicastle1.jpg" alt="Image" style="width: 500px; height: auto;">
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center; border: 3px solid #000; width: fit-content;">
-    <img class="img-fluid" src="/assets/img/post-img/6-soul-searching-in-hakone/atamicastle2.png" alt="Image" style="width: auto; height: 400px;">
+
+<span class="caption text-muted">Atami Castle outside | iPhone14</span>
+
+<div style="display: flex; justify-content: center; align-items: center; border: 3px solid #000; width: fit-content; margin: 0 auto;">
+    <img class="img-fluid" src="/assets/img/post-img/6-soul-searching-in-hakone/atamicastle2.png" alt="Image" style="width: 500px; height: auto;">
 </div>
 
-</div>
-<span class="caption text-muted">Atami Castle outside (left) & top floor (right) | iPhone14</span>
+<span class="caption text-muted">Atami Castle top floor | iPhone14</span>
 
 I brought my suitcase with me, which I had to lug up to the castle. Once I got to the top, there was a nice view of the surrounding nature. Atami Castle is probably my favorite castle that I have been to, and I have been to a lot. Perhaps I will release another post in the future ranking all the castles I have been to in Japan. Atami Castle had a really nice outdoor area surrounding it, with a small cafe and a beautiful view of the ocean. However, the inside of the castle was impressive as well. The castle has around 6 floors, including an arcade and play area in the basement.
 
@@ -99,18 +99,19 @@ After my zipline adventure, I went to get some of the best ice cream I have had 
 
 In the mid afternoon, I took a bus from the Mishama Skywalk to a Hakone boat tour adventure around Lake Ashi. I purchased a roundtrip ticket and had to transfer boats once during the one hour tour. It was nice to view the area from the boat and experience sightseeing from a pirate ship like designed vessel. It was a bit cold and windy, but I definitely think the experience was worth it.
 
-<div style="display: flex; justify-content: center; gap: 1em;">
+<div style="display: flex; justify-content: center; align-items: center; border: 3px solid #000; width: fit-content; margin: 0 auto;">
+    <img class="img-fluid" src="/assets/img/post-img/6-soul-searching-in-hakone/boat.jpg" alt="Image" style="width: 500px; height: auto;">
+    
+</div>
+
+<span class="caption text-muted">Hakone Boat Tour | iPhone14</span>
 
 <div style="display: flex; justify-content: center; align-items: center; border: 3px solid #000; width: fit-content; margin: 0 auto;">
-    <img class="img-fluid" src="/assets/img/post-img/6-soul-searching-in-hakone/boat.jpg" alt="Image" style="width: auto; height: 300px;">
+    <img class="img-fluid" src="/assets/img/post-img/6-soul-searching-in-hakone/boat2.jpg" alt="Image" style="width: 500px; height: auto;">
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center; border: 3px solid #000; width: fit-content; margin: 0 auto;">
-    <img class="img-fluid" src="/assets/img/post-img/6-soul-searching-in-hakone/boat2.jpg" alt="Image" style="width: auto; height: 300px;">
-</div>
-</div>
 
-<span class="caption text-muted">Hakone Boat Tou | iPhone14</span>
+<span class="caption text-muted">On the boat | iPhone14</span>
 
 
 ## The Fourth Day - Acao Forest & Return to Nagoya
@@ -152,19 +153,19 @@ Between the sea and forest area, I visited a nice cafe and had some tea and chee
 
 Overall, Acao Forest offered a lot of scenic views and pretty flowers to look at, however I think that if I went when the weather was warmer, there would be many more flowers to look at.
 
-<div style="display: flex; justify-content: center; gap: 1em;">
 
 <div style="display: flex; justify-content: center; align-items: center; border: 3px solid #000; width: fit-content; margin: 0 auto;">
-    <img class="img-fluid" src="/assets/img/post-img/6-soul-searching-in-hakone/forestview1.jpg" alt="Image" style="width: auto; height: 400px;">
+    <img class="img-fluid" src="/assets/img/post-img/6-soul-searching-in-hakone/forestview1.jpg" alt="Image" style="width: 500px; height: auto;">
 </div>
+
+<span class="caption text-muted">Acao Forest Forest View Flowers | iPhone14</span>
+
 
 <div style="display: flex; justify-content: center; align-items: center; border: 3px solid #000; width: fit-content; margin: 0 auto;">
-    <img class="img-fluid" src="/assets/img/post-img/6-soul-searching-in-hakone/forestview2.jpg" alt="Image" style="width: auto; height: 400px;">
+    <img class="img-fluid" src="/assets/img/post-img/6-soul-searching-in-hakone/forestview2.jpg" alt="Image" style="width: 500px; height: auto;">
 </div>
 
-</div>
-
-<span class="caption text-muted">Acao Forest Forest View | iPhone14</span>
+<span class="caption text-muted">Acao Forest Forest View Garden | iPhone14</span>
 
 
 Finally, I took a shinkansen back to Nagoya and ended my first solo travel adventure.
