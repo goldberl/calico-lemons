@@ -13,7 +13,7 @@ page_type: post
 
 Welcome to Calico Lemons, a collection of paws (pauses - reflections), purrs (fun stories), and zesty surprises (adventures).
 
-Life is full of so many experience, both good and bad. For my own purposes, I have decided to create a personal blog to document various thoughts, reflections, and experiences to look back on later. Posts will range from my latest travels, to thoughts on the current game I'm playing, to my experiences learning new skills.
+Life is full of so many experiences, both good and bad. For my own purposes, I have decided to create a personal blog to document various thoughts, reflections, and experiences to look back on later. Posts will range from my latest travels, to thoughts on the current game I'm playing, to my experiences learning new skills.
 
 ## Why Calico Lemons?
 
