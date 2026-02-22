@@ -10,8 +10,6 @@ page_type: page
 
 Welcome to Calico Lemons, my personal blog. Here I'll document noteworthy adventures, experiences, or reflections I have throughout my time on this planet. 
 
-My hometown is Philadelphia, PA, and I currently work as a Software Engineer.
-
-In my spare time, I enjoy hanging out with friends, cooking, crocheting, and playing video games. I am always open to exploring new places, both local and far, especially if I get to eat delicious food. 
+My hometown is Philadelphia, PA, and I currently work as a Software Engineer. In my spare time, I enjoy hanging out with friends, cooking, and playing video games. I am always open to exploring new places, both local and far, especially if I get to eat delicious food. 
 
 **Feel free to contact me: leahtiangoldberg@gmail.com**
