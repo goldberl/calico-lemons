@@ -4,7 +4,7 @@ description: A series of writings about my time living in Nagoya
 featured_image: /assets/img/post-cover-img/lemon-post.jpeg
 tags: ["japan", "nagoya-nostalgia"]
 date: 2026-02-22
-ERT: 0
+ERT: 1
 draft: false
 page_type: post
 ---
