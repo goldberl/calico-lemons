@@ -1,6 +1,6 @@
 ---
 title: About Me
-featured_image: /assets/img/page-cover-img/about-bg.jpeg
+featured_image: /assets/img/page-cover-img/yellow.png
 page_type: page
 ---
 
