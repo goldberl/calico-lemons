@@ -85,7 +85,7 @@ _\* Disclaimer : I haven't been to any of these places, but one day hopefully!_
 - **<a href="https://www.nagoya-info.jp/en/spot/detail/91/" target="_blank" style="color: #b58900; text-decoration: underline;">Hisaya-Odori Park:</a>** Central Nagoya park with shopping and Mirai TV tower.
 
 - **<a href="https://www.japan-guide.com/e/e3307.html" target="_blank" style="color: #b58900; text-decoration: underline;">Port of Nagoya Public Aquarium:</a>**
-  On of Japan's largest aquariums near the port of Nagoya!.
+  On of Japan's largest aquariums near the port of Nagoya!
 
 - **<a href="https://www.japan-guide.com/e/e3300.html" target="_blank" style="color: #b58900; text-decoration: underline;">Nagoya Castle:</a>** Famous Japanese castle built in 1612 (rebuilt in 1959).
 
