@@ -27,6 +27,6 @@ As for lemons, I feel my life has a lemon motif to it. 'Leah' and 'lemon' start 
 
 Thus through combining two things I love, the blog name was born. Thanks for checking out Calico Lemons, and happy reading!
 
-**_今日は明日も頑張っている　ー　End._**
+**_今日も明日も頑張る　ー　End._**
 
 <a href="/all-posts.html" class="btn btn-primary" style="float: right; margin-bottom: 20px; text-decoration: none;">RETURN TO POSTS</a>

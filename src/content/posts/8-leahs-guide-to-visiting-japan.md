@@ -204,6 +204,6 @@ If you’re visiting very popular spots, especially in Tokyo, make reservations 
 
 That's all I have for now, happy planning!
 
-**_今日は明日も頑張っている　ー　End._**
+**_今日も明日も頑張る　ー　End._**
 
 <a href="/all-posts.html" class="btn btn-primary" style="float: right; margin-bottom: 20px; text-decoration: none;">RETURN TO POSTS</a>

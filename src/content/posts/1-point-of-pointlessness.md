@@ -123,6 +123,6 @@ Although I enjoy watching anime, I do not usually watch _iyashikei_ anime. I pre
 
 If you are want to read more about this topic or check out my sources, please see the <a href="/assets/files/thesis.pdf" target ="_blank">full thesis.</a> That's all for now, see you in the next post!
 
-**_今日は明日も頑張っている　ー　End._**
+**_今日も明日も頑張る　ー　End._**
 
 <a href="/all-posts.html" class="btn btn-primary" style="float: right; margin-bottom: 20px; text-decoration: none;">RETURN TO POSTS</a>
