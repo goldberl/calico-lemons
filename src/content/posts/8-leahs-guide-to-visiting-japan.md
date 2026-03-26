@@ -4,7 +4,7 @@ description: An amalgamation of recommended places, useful links, and travel tip
 featured_image: /assets/img/post-cover-img/lemon-post.jpeg
 tags: ["japan", "nagoya-nostalgia", "travel"]
 date: 2026-03-25
-ERT: 10
+ERT: 7
 draft: false
 page_type: post
 ---
